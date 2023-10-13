@@ -2,7 +2,7 @@
 
 ![](Assets/banner.jpg)
 
-## 💚 Nuestra Misión
+## 💚 Acerca de 
 
 Somos una organización comprometida con la causa de mitigar el cambio climático en México y a nivel internacional. Nuestra labor se centra en la captación de fondos tanto nacionales como internacionales, que luego canalizamos de manera estratégica hacia el desarrollo de estudios y análisis de políticas públicas puntuales que contribuyen a la reducción de emisiones causantes del cambio climático.
 
